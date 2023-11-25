@@ -41,7 +41,6 @@ Ein grammatischer Fehler bei der Job-Beschreibung: "Du testet Programme, Anwendu
 ### Screen
 
 https://ibb.co/cCyNbkn
-![](/images/Fehler.jpg)
 
 <image src="https://ibb.co/cCyNbkn" alt="Fehler">
 
