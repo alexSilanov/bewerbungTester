@@ -2,8 +2,8 @@ describe('open Kaiiere-Portal', function(){
 
     it('Coockies akzeptieren', function(){
         cy.visit('/')
-        //cy.get('.cookie-box').should('be.visible')
-        //cy.get('.cookie-box ._brlbs-btn-accept-all').click()
+        cy.get('.cookie-box').should('be.visible')
+        cy.get('.cookie-box ._brlbs-btn-accept-all').click()
     })
 
     it('Karriere-Portal öffnen', function() {

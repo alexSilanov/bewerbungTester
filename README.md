@@ -1,4 +1,4 @@
-[![N|Solid](https://www.cypress.io/images/layouts/cypress-logo.svg)](https://www.cypress.io/)
+
 
 # Bewerbung über Cypress
 ## * Alle Privatdaten wurden gelöscht
@@ -42,7 +42,6 @@ Ein grammatischer Fehler bei der Job-Beschreibung: "Du testet Programme, Anwendu
 
 https://ibb.co/cCyNbkn
 
-<image src="https://ibb.co/cCyNbkn" alt="Fehler">
 
 
 
