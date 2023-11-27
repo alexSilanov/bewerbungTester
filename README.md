@@ -42,7 +42,7 @@ Ein grammatischer Fehler bei der Job-Beschreibung: "Du testet Programme, Anwendu
 
 https://ibb.co/cCyNbkn
 
-
+![Текст с описанием картинки](/images/Fehler.JPG)
 
 
 ## Durchführung
