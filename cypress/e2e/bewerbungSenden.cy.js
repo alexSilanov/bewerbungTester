@@ -27,7 +27,7 @@ describe('Bewerbung senden', function(){
 
     it('Bewerbungsdaten hochladen', function(){
         // Hochladen CV
-        cy.get('#application-uploads').attachFile('Bewerbung.pdf', {subjectType:'drag-n-drop'})
+        cy.get('#application-uploads').attachFile('Test.pdf', {subjectType:'drag-n-drop'})
     })
     it('Bestätigung der Speicherung meiner Daten', function(){
         // Datenschutz einstimmen
